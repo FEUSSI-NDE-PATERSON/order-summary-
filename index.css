@@ -1,0 +1,6 @@
+#head{
+    background-image: url('/images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100vh;
+}
